@@ -1,0 +1,17 @@
+{
+  "name": "e2e-crypto",
+  "version": "0.0.0",
+  "description": "e2e crypto",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "base-64": "^0.1.0",
+    "base64-arraybuffer": "^0.1.5",
+    "btoa": "^1.1.2",
+    "hapi": "^15.1.1",
+    "inert": "^4.0.2",
+    "node-forge": "^0.6.42",
+    "node-webcrypto-ossl": "^1.0.7",
+    "subtle": "^0.1.8"
+  }
+}
